@@ -34,7 +34,7 @@ wandb.config = {
 }
 
 # print(f'config_learning_rate:{wandb.config.learning_rate}')
-for epoch in range(10):
+for epoch in range(5):
     train_loss = 0.0
     train_correct = 0
     
@@ -61,3 +61,7 @@ for epoch in range(10):
     # # print(y[0][1])
     # print(y)
     # print(y.size())
+wandb.log( {"learning_rate": 0.005,
+  "epochs": 50,
+  "batch_size": 5})
+# 이렇게하면 이 지점만 log 로 남음

@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2022-01-07T04:22:22.332970",
+    "startedAt": "2022-01-07T04:22:19.319148",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\gmlss\\OneDrive\\\ubc14\ud0d5 \ud654\uba74\\resnet\\train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/saehan-choi/convolution_neural_network.git",
+        "commit": "a04bbf9ad146e287e578e70c96c010f06c2f969a"
+    },
+    "email": "gmlssns5859@naver.com",
+    "root": "C:/Users/gmlss/OneDrive/\ubc14\ud0d5 \ud654\uba74/resnet",
+    "host": "DESKTOP-B72GJ5F",
+    "username": "gmlss",
+    "executable": "C:\\Users\\gmlss\\anaconda3\\python.exe"
+}
