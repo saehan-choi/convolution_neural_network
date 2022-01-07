@@ -12,7 +12,7 @@ device = torch.device('cuda')
 model = ResNet18(img_channel=3, num_classes=2)
 model = model.to(device)
 
-optimizer = optim.Adam(model.parameters(), lr=0.0001)
+optimizer = optim.Adam(model.parameters(), lr=0.001)
 # parameters 말고 parameters()임.
 criterion = nn.CrossEntropyLoss().cuda()
 
@@ -28,15 +28,10 @@ train_loader = DataLoader(train_data, batch_size=50, shuffle=True)
 wandb.init(project="my-test-project", entity="saehoni", name='haha')
 
 wandb.config = {
-  "learning_rate": 0.0001,
+  "learning_rate": 0.001,
   "epochs": 10,
   "batch_size": 50
 }
-
-config = wandb.config
-
-print(config.learning_rate)
-# 이거는 제대로 모르겠네 learning rate 랑 epoch를 
 
 # print(f'config_learning_rate:{wandb.config.learning_rate}')
 for epoch in range(10):
