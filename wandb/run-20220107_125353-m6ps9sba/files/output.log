@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\Users\gmlss\OneDrive\바탕 화면\resnet\train.py", line 38, in <module>
+    print(config.learning_rate)
+AttributeError: 'dict' object has no attribute 'learning_rate'
