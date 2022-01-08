@@ -7,3 +7,7 @@
 but if you want to use 'sweep' in wandb, you have to do modularization about learning rate, opimizier, trainning code
 you can learn W&B in website by doing tutorial
 ( sweep can find automatically hyperparamerters )
+
+
+# made by own from scratch
+![image](https://user-images.githubusercontent.com/70372577/148645686-5a4dbeb1-b636-4730-9d1f-45c246b7729e.png)
