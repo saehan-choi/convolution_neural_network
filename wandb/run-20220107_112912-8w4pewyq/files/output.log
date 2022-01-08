@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "c:\Users\gmlss\OneDrive\바탕 화면\resnet\train.py", line 39, in <module>
-    print(f'config_learning_rate:{wandb.config.learning_rate}')
-AttributeError: 'dict' object has no attribute 'learning_rate'
