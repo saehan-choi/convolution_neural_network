@@ -13,4 +13,4 @@ you can learn W&B in website by doing tutorial
 you can see in train_hyperparameters....py
 ![image](https://user-images.githubusercontent.com/70372577/148645686-5a4dbeb1-b636-4730-9d1f-45c246b7729e.png)
 
-![image](https://user-images.githubusercontent.com/70372577/148666335-cef5ae16-29e6-48e8-81ed-bd11dbd12e3a.png)
+![image](https://user-images.githubusercontent.com/70372577/148666454-3db81ed3-3a07-4b13-b3eb-7c51eb69433b.png)
