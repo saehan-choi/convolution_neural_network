@@ -12,3 +12,5 @@ you can learn W&B in website by doing tutorial
 # parameter tunning program made by own from scratch
 you can see in train_hyperparameters....py
 ![image](https://user-images.githubusercontent.com/70372577/148645686-5a4dbeb1-b636-4730-9d1f-45c246b7729e.png)
+
+![image](https://user-images.githubusercontent.com/70372577/148666335-cef5ae16-29e6-48e8-81ed-bd11dbd12e3a.png)
